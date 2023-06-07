@@ -1,0 +1,5635 @@
+fileFormatVersion: 2
+guid: 5da3255bd5b50e54394c5ef7ec70e094
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 14
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: edificios (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e3f8a9af3631147bccf33ebf36899a
+      internalID: 430601214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5dea872d1266b4d812eae57be8f6f3
+      internalID: -11617947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca501d92fd586d642b17aebbf02f0d2f
+      internalID: 506251838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6496ac32f0fe64ba08d14208fd8037
+      internalID: -1627633601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634f6bf9f533fc148831439e449df5e7
+      internalID: 609327845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d83deb65616648469c26073dd31158e
+      internalID: -1451680533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f462d6531362a8444b65c5859b8e692d
+      internalID: -690144737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed7002cc08955147b3e8ab14cbc2c7f
+      internalID: -1302717591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ff9e01a1721ec48912bba0950cb982
+      internalID: 1794690272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f47b32152b2768468af561241140312
+      internalID: 328442418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e830335d1855153429821998db0b2bc0
+      internalID: -1146480712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df0086109550a346b980e9143084dcc
+      internalID: -991059107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd835047ff3ca754da8ed4f9c4b0f966
+      internalID: 181309477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d49f58b60620b44cbb6e5954d011f97
+      internalID: -2037254337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39556220dc9025f468f9cf37c1608efc
+      internalID: -1422050568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87bba1050b2b114ea44efd32aa77df6
+      internalID: -1887492141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba7dfe2022fb4e458e0f665946afb51
+      internalID: -410329039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cb8bda5b08e084a997231446754a19
+      internalID: -607645721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_18
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1be7e04f3d8a8e4baddd88518c2cf9b
+      internalID: -927254688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_19
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e7c8486d5e73a4294560f6d441d947
+      internalID: -611061549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999f545347bafa04e89b8b4a44797f78
+      internalID: -1473990637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_21
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a0f46cab74ee942a99f79c200089d1
+      internalID: 311465732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_22
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1340277615fc5714580f5b398de1a0e8
+      internalID: 1696646333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_23
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67681d0ac6f44d140a642df6431d0d18
+      internalID: -2103798410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_24
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61745bb8ca0386d4aa704012b169bfa3
+      internalID: -1403683781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174ba73f7c5f0dd4d85323bb0d07a6b0
+      internalID: -680876701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_26
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd28e2d240763a42abbc081c4613a51
+      internalID: 1906098336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_27
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1cf5ad61b7c4b40b3b0e13e2bae408
+      internalID: -1781198872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a5b0fd0ae0a10458d09a5417437506
+      internalID: -1324746702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4ef50bc699ba745a5032aef8c1ecb1
+      internalID: 2024618352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be4f51259a3778498de74ce4dcf2953
+      internalID: 676893361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadf518bd7b2b444c83da79684bdb0ea
+      internalID: 621578523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55503e626687e2d449dcf2ccc1eaab74
+      internalID: 1510333263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793caddd46437954e92b9d34f4dac81b
+      internalID: 1741483190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_34
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab6b0e7074129e45919e74231a85feb
+      internalID: 2016900929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_35
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4bc78a900ff944787966b670a4867f
+      internalID: -1843639382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_36
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e081341f5253445bcc6d0638c2d23b
+      internalID: 15762334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30813110a478744419701b5d96c9e056
+      internalID: -2131270063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_38
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7192d49b36c10944bdd64adb36848c1
+      internalID: -1067602985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_39
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb56e3151e51cca4481e394a08723af8
+      internalID: -1530744618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1891805ca8a7b349bedce4194af71d7
+      internalID: 1947325420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37428b5280c76d74ea4c10e1fea5e5ff
+      internalID: -132198474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_42
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39013b98bca504488b68763c138f16e
+      internalID: -1780601952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_43
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b07c189937f42f48b7bdd82d902ab1c
+      internalID: -1049162498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_44
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1990ef129f8c84399703a5dce74f7b
+      internalID: 1464955728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_45
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3896e8df9987e1745839fbb184ab4deb
+      internalID: -1446353649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_46
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb40a0c2aef346e4fb530e4f024e8a08
+      internalID: 887882919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_47
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302f87a44c5b97a438b0d82101083752
+      internalID: -267469532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_48
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ad5f351c397f64eb351bfe71db2fde
+      internalID: -1279063820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaa39df6ffcfe74cbb0155017b642c4
+      internalID: 41182743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda802dc8ceded140a15c66b60fa6c3c
+      internalID: -575649975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_51
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254112e8cf260334784158172a0be1ef
+      internalID: 1295611559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_52
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4665278d207d48c4a9b675de6016a718
+      internalID: 1620124338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3a5bd8daf0b7c45b372cd077fb92bf
+      internalID: 1486650551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7c7f00f624b834a944887e10e5dac7
+      internalID: 502526120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f47daa9ce88604f99fb62f0882fe3e
+      internalID: -23658099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e3305e1c60ae44cabec0a1f8cd46bb
+      internalID: 2076996545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0726370621c9cec418c8e3c1c58b2ffd
+      internalID: -1796921437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb15bf0c863a4f43920faf47d76ddd9
+      internalID: 1757594929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_59
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8a15495ce11b547a436747ad9edcac
+      internalID: 1951764193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_60
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea91c80252e9ae46a6f0628f8dbb4d1
+      internalID: 823463070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b2bc2d65e3cc44e93df5f5507ffa12
+      internalID: 1201033908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8a31f13f7bb4c4e84afd26cc8d695e
+      internalID: 1433168624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_63
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80be724a8120df4b8d15532ffc6b869
+      internalID: 1840507684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_64
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e25881a1c68aa4eb8488829ec094d9
+      internalID: 1529525268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_65
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4810489f6fe447840a9a4eef872fe701
+      internalID: -603051574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_66
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a2bd4ccf707bf4d96906f245d5b32b
+      internalID: -1305405959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_67
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36c0c00a1273e94983afe016eea2ff5
+      internalID: -2101675728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_68
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ddb377a6b80964e97a08a8d5dfaccf
+      internalID: 1205505492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_69
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7163f641e7278e40a08d312433190cc
+      internalID: 1793606902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_70
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9185a22352adf4c9ff43663b02496f
+      internalID: 297910238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_71
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893da5975521ca443a504605578bc277
+      internalID: 674753367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_72
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044b1eaa2341db542817fd699536f2dc
+      internalID: -1404752143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_73
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6ed4e7f03633243b471f6ddb818280
+      internalID: 288943090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_74
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56764c2c11a45e24f91a7719c030774c
+      internalID: -33147089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6588c8df7b7b95043a8f85d8c5d30517
+      internalID: -237922014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_76
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facf0403f6e5b9b4b9c05a534eb52863
+      internalID: 870581823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_77
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71cfb648318e8b4a86243250f4edfc5
+      internalID: -816842452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_78
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21923a10d51d8ee41b6e44b7acace70a
+      internalID: 1350474232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_79
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9263fff35cee434aaed55fa7af669a9
+      internalID: -1757034014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_80
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1933dd91f6ae4cb4ba5b8b5bb0a06343
+      internalID: -1935778906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_81
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7323c045b0bde3c458e2360b1e80373d
+      internalID: -747037088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_82
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb4fd107f0c57c45b07a3fdf570c336
+      internalID: 1682431308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5c68eccaa960348b374d147c921f6c
+      internalID: 1158558085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_84
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97bef30a62dd044c83c65be95ee582d
+      internalID: -666131043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_85
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db76526d84134146b78270814fd3a93
+      internalID: -1201974545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_86
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d995dcafd2d02e54d9294249212eb88a
+      internalID: 918347671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7516d5caf300b80498a1a4d2b41be0fd
+      internalID: 1918011682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_88
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353de10a25f115242ac10013faabd59e
+      internalID: 1885432968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_89
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ff8d5fc8c56ce4da11e4710534d7b2
+      internalID: -2104634686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88c5009e0b8c2e428700270d9fc01ab
+      internalID: -1616892645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29e3ea0dffb5a44bafd45b4675c1f9b
+      internalID: -1277590149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_92
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6138f1f14b3ac9e4594ff59a27f270ad
+      internalID: -1980210887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_93
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c7ff407caf6af4aa45c5799d44b3aa
+      internalID: 1028710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_94
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd19f07d4b7bcb4f8558a5e3fac95d1
+      internalID: 1900963475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_95
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9643a61064cd3144bbdd468781a51572
+      internalID: -1212028988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_96
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85be28aa9a3ebab4aab62c4cbb9c950b
+      internalID: -1623217296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_97
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15dfe94c0618004594f01db0d42cf89
+      internalID: 1964082628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_98
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fb82b5706bc084490f1dc5c63f62a6
+      internalID: -1709786710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_99
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc3e8eba689b944387e9d38e16b98f6
+      internalID: 1841357324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d03bbdb40adc9b48a27a8f559b87cee
+      internalID: -1354570982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_101
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b484e99c76bb3bb4c9599179fa6a4b6f
+      internalID: 707790635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_102
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c90b0c09e0390c4f950fbe2d6ae3668
+      internalID: 405517807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_103
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79a3ff7bc622e841b35667bcb269603
+      internalID: -1025643411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_104
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4341bb3d602376a4bb62d4fdf0c9800d
+      internalID: -637167870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_105
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76db3d55343ef094db77ff8d84cfd16f
+      internalID: -1597506263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_106
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab05abb73f553774c9763b25dec941ba
+      internalID: 1495009840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_107
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee595cb81c42324f80680304b9545d6
+      internalID: -1792822843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_108
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1e464dddba41648a815ec6ea897cad
+      internalID: -959063266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_109
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90da22dcfe31cc64f98ec9c3272d4a76
+      internalID: -926066533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_110
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41e0ce0ab63e7049823f7e7a5dec10b
+      internalID: -1557261502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_111
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f12d1d60448c4b9d8e195c4991126
+      internalID: -2081927648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_112
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa6e6bbca359624caa2cf9a52d9e005
+      internalID: -1930852035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_113
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af817a76538be524ba77c7b886cf33b0
+      internalID: -1593881768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_114
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe1fae67c8898d46806f15e289cd901
+      internalID: 1927534253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_115
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7950ff58839b37a40a85ba7ce0e8fd4b
+      internalID: -156750235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f7eba23c3d6c044b767fa9a5b4412b
+      internalID: -1784942241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_117
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bd7bac8435cc94183f8abb3fea61ed
+      internalID: 877049464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_118
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e291afd620dba14bac853d1056039f0
+      internalID: -634807942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_119
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c044512f3974449a61cdbb2d653833
+      internalID: -1154952062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_120
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830ff1edefd4fd546a1999c2327fc22c
+      internalID: 925028491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_121
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a4a8e6f09ba0645978c3e313694aa0
+      internalID: -1436209138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_122
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e86e4149062ef4d94aa85d33a1a110
+      internalID: -486463427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_123
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5229a27e80bf3544b33210c5bbfac0b
+      internalID: -233877178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_124
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4363ecc2e5d830e4f9351f13dc850121
+      internalID: 891433476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61e176bc5996c8469ad9cbf4d8f7ece
+      internalID: 1723728420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_126
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3051cc96305d7bb47a52dc27d1eba41d
+      internalID: 1817962954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_127
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a2d46212a60f84e8adf6736af93a5a
+      internalID: -33888622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_128
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f02f7f11cade74b8ce9a0aa71c952b
+      internalID: -44447048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_129
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37d1a103308f424a94ed722392951e7
+      internalID: -1795105717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_130
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd92573f19dceaf4f9bc1a2391d90cea
+      internalID: -9517684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_131
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d7cd77a4c388f4991455d55669c40a
+      internalID: 590772158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_132
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53b759812c7a5d478cea43a6550b840
+      internalID: -1320052485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_133
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a6d74d5b39b09409ab325756887cdf
+      internalID: -62540106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_134
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2022a7f1fee7432419bb412d4969d35c
+      internalID: -1966207116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_135
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d239ef6a948912a47b5ccb4309a34d85
+      internalID: 1993347803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_136
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319aa979173c7fe4eb0124b0ccdbb445
+      internalID: 1054142460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_137
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff342367e584724b958af7776fe6f87
+      internalID: 1235025120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_138
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a86268ae5756443b3e0c172a290d4e
+      internalID: 231203018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_139
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a40febae9be27841a07eb114f44de21
+      internalID: 467977007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_140
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc56718ad67dd5d45b2ae7d87483123d
+      internalID: 245870794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_141
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a4ea8bb68d46242b7c47bb9102afbd
+      internalID: -2024286923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_142
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5817efb373b3f6e4696aa865f024ae98
+      internalID: -627875001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_143
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b833794cc4c7ea04e93b23113f82f8d6
+      internalID: -1059448362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_144
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4bd3f34d417554e88f27b823f9256e
+      internalID: -627072546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_145
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8027d2a58766a944290898a89f4b1951
+      internalID: 1763834531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_146
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cd37c58ba85514ea8b7a5e7d2172b4
+      internalID: -404327569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_147
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523985b1840ea1e489bd2fe65f3c962b
+      internalID: -676275236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_148
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2868da7444a40154d89d96e5e97e88da
+      internalID: 1787004241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_149
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cd48a7996e1cc4d9ebdb1eaa2d0973
+      internalID: -1003156315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce0d7c580bfad945bea00126d4c85d2
+      internalID: 2132129932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_151
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477c82038a807c54ea963efa02286527
+      internalID: 1311215850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_152
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c841fcc6d194f0c4bbea8df8b973b4a7
+      internalID: -1458948827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_153
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5db1d59e1ba662428d850111c74c52b
+      internalID: -626825500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_154
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370fc9e52c4054243afda0d590c6f7c8
+      internalID: -1666139645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_155
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffe56487f0e09241a3998896883d745
+      internalID: 533605748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_156
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424eab74b025e954ab4d38429522fb99
+      internalID: 931677836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_157
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b022a24a3c779a74b80cac2db8255082
+      internalID: 205776864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_158
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1428d6ed2679dce42b2dccd991ef2ee4
+      internalID: -1285161980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_159
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19c21f6c073cbc43842b511231bc281
+      internalID: 861593110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_160
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b87016a936ff5c489b695118ecf0e90
+      internalID: -941428962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_161
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98081bb7d51e97f4485414d6ac3ef02b
+      internalID: -1808295722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_162
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc014e4076380d4691f35b0cd3585cb
+      internalID: 803705583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_163
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bada7d05c8bf9a4e8e536108944d29e
+      internalID: 1700077227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_164
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbb0fbe05fb11143b955d6fe90f3955
+      internalID: -645106084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_165
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aab9fd27cab08547b9628cd7f1c11e2
+      internalID: 390049259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_166
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0094aed289bada84b94704cca912e8f3
+      internalID: 2091079389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_167
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1712d8e5daec1e46b64dbee0fca58a4
+      internalID: -2052671576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_168
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76af6e3ad4435bb4fa4dc6c0b911b1fc
+      internalID: 1884329862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_169
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2833fe422a5584eaab8e774e6f56bb
+      internalID: -688110595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_170
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa540bbd940d40145abb280e58f636a7
+      internalID: -1736547385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_171
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be24c0aa24d7a154c883380f9848e3bf
+      internalID: 1844065160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_172
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef081714c5ff9bd42bcc6d099ceb7b66
+      internalID: 1880878345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_173
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ac21499b4d25441a72e58691aec4b4
+      internalID: -1347746005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_174
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eabb5714d7daeb4284383b9186890a8
+      internalID: 107726508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee9d6aab3071ce4cb72074bd5ac44c0
+      internalID: 1680045741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_176
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed8a3ea5a9137a4595965e00ea0a5d7
+      internalID: 1574918372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_177
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89be33db1bd26f44d8f2a767f12d7741
+      internalID: 163796743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_178
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab5e3a001ed89144b71cadf1420dc88
+      internalID: -364582421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_179
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d509280281532dd448d82cf95f026f72
+      internalID: 1409014752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_180
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d13761cc945404db207f46ea468be8
+      internalID: 1033310029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_181
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6423626f6f4aa40a780dae5206a254
+      internalID: -697749525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_182
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea6de26a4b10384a9caefc54c024e7e
+      internalID: -261716614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_183
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f2e4eda1269c7448a3265d7ebabe1f
+      internalID: 389542976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_184
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b998f0e0657b60c489f92a2a94223bc7
+      internalID: -291466432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_185
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb0ebb05d5377d4299339c2b36b6d93
+      internalID: 780822783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_186
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8c7041d1cdd30448e0333e745e608b
+      internalID: -395596819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_187
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0869aa7831f8d40b0020048ea33c9d
+      internalID: 58494939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_188
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304af3e55b685fe439f2eae28bc06475
+      internalID: -2127184611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_189
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8722292428dae8f44b534068932c3f77
+      internalID: 469560855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_190
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71852a23c50fbad41813aea631eedae3
+      internalID: -1465923823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_191
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b117224192fc3e74aaf7aba206b14c73
+      internalID: -171717980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_192
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8413ab030dff387489cdf3df5c56a9cf
+      internalID: 1318693445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_193
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adf6b85bfa203643bff13125683a02b
+      internalID: -174577789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_194
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58c892a482f0fd468da5bc51b6943d5
+      internalID: 428327992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_195
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e587542378dd8f04585b7a8269fc37ab
+      internalID: -504953026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_196
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be373bf9585a15428b353eba5a7579f
+      internalID: 192293266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_197
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67f20e34678aa340a26b0b83a30f6d6
+      internalID: 1828621120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_198
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8661dc7dbcea34b9ce3bcc987dcdf5
+      internalID: -419290944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_199
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e21588ede6e2c446b55eb7a83e95b08
+      internalID: -1946348282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d096200ba863de94f8bf5b52b6aa86d9
+      internalID: 717470147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_201
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa46307b2d311b249aa9ea2c770b9e63
+      internalID: -1806946125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_202
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4acb1ab60339343b64817de8282252
+      internalID: 1430200066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_203
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ebed76b4b028e46ac720031d66e2cb
+      internalID: -429028516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_204
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f541df4e6f58248a1f8dd5a03f9c56
+      internalID: -407915960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_205
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9dc7f0eb49efd4fab326d08cb6742f
+      internalID: -1324101032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_206
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa30d300ba52ca5498952071ee94e31f
+      internalID: 1787008067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_207
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1c345d71800ba478ef9a48d4b774d4
+      internalID: -548408775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_208
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e20b9a5673057643ac3c810deef81d6
+      internalID: 1479110644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_209
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b92cbcaebf5f04cb74ea615509df17
+      internalID: -309481548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_210
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cac5a5290604bd4aa72fb1a9257710b
+      internalID: -1700244187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_211
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32b4d5abd13ccf4eafd96f107ef782a
+      internalID: -1730912236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_212
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7153f8a7ee5ed46933613796435b99
+      internalID: 733862323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_213
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5387e9e3a93dd4e987911cdf85fa5c
+      internalID: -768968839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_214
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4786be8a914c00c4a8c7b351b2de8d45
+      internalID: 789548828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_215
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbaafaab2509f54bbf4b9ebc0c55ae8
+      internalID: -1643125288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_216
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b41fcd20026b64093b933e733d8410
+      internalID: -1131697208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_217
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd527c1820043464e8d1f12495b5d7e3
+      internalID: 1522473554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_218
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a19fe64cbae924f898c561fb00cca8
+      internalID: 1386933967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_219
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affcd3690e5ef4f49a0a4c3d2d29eb53
+      internalID: -1347769355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_220
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774e00315ebe6be46819fa50e2362405
+      internalID: -337977346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_221
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cb97f05a2ebd34b878859713062329
+      internalID: -220959206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_222
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead90748486c9de429ebd5c25986d411
+      internalID: 1361232589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_223
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3e3fb6f51c3f641a71e7bcc9d33b75
+      internalID: 1728483096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_224
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8420ee805f574dc4891094fdbe461db8
+      internalID: -1876470202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50081dbf03841847a3ae3702255fa81
+      internalID: -1251765079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_226
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5d0d9ce9366b44e98bf7d6a1ff0484
+      internalID: -167112957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_227
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b14e9caa196da24c8a071580a53789c
+      internalID: -892365954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_228
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc7803f36eb9cd44becd817c5361693
+      internalID: -559120587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_229
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60c27a0177f1034ebdc201353bf65ee
+      internalID: -773454818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_230
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f049259c9ff130469d36a9290ea0fd0
+      internalID: 1042692250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_231
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555c8396af0eee94e8a549e701ff84cf
+      internalID: 51294269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_232
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b63a1802140bb47bac33dfad42e132
+      internalID: -82632292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_233
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9b5589376faa241ad29f28c94bc855
+      internalID: -1703541458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_234
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cefa7daaf89c647a48339d90be98f5
+      internalID: 2093490197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_235
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c30bc8385820547b55af95f1b8d2a9
+      internalID: -2111812696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_236
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbbfa9bb8a0f6f4884d33ca62534b18
+      internalID: 1330905295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_237
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178dafedefb0c2943837c8fcb118f2db
+      internalID: -783734897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_238
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7938f1b250662714daddde643c77514c
+      internalID: -83771396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_239
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b669c4dd031f96f48a5f66e856fb40db
+      internalID: 11592666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_240
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb298c1035852340972e4aa2be3992e
+      internalID: 1177960117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_241
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7e16f3bfa6f544f93bca5c31901787
+      internalID: 480267748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_242
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83078e0ba2992d64995808373c52862a
+      internalID: 424882164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_243
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3d79639aeddc54385acdf12ca5f1b7
+      internalID: -1742987549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_244
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6575401240c869b4ca485bbd63874bb6
+      internalID: 1943858960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_245
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46ec4be9b47870438ab912d901ff6ca
+      internalID: -656534732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_246
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4977266f6b59241909a2460155f5a2
+      internalID: 151088422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_247
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eaf494a632f9f439f5366cf5545d06
+      internalID: -949171102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_248
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270ba7dd1303ba34988ef1b13dc08b9a
+      internalID: 1855111149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edificios (1)_249
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763b6ff57e0494540824f6abb9885b15
+      internalID: -806931801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      edificios (1)_0: 430601214
+      edificios (1)_1: -11617947
+      edificios (1)_10: -1146480712
+      edificios (1)_100: -1354570982
+      edificios (1)_101: 707790635
+      edificios (1)_102: 405517807
+      edificios (1)_103: -1025643411
+      edificios (1)_104: -637167870
+      edificios (1)_105: -1597506263
+      edificios (1)_106: 1495009840
+      edificios (1)_107: -1792822843
+      edificios (1)_108: -959063266
+      edificios (1)_109: -926066533
+      edificios (1)_11: -991059107
+      edificios (1)_110: -1557261502
+      edificios (1)_111: -2081927648
+      edificios (1)_112: -1930852035
+      edificios (1)_113: -1593881768
+      edificios (1)_114: 1927534253
+      edificios (1)_115: -156750235
+      edificios (1)_116: -1784942241
+      edificios (1)_117: 877049464
+      edificios (1)_118: -634807942
+      edificios (1)_119: -1154952062
+      edificios (1)_12: 181309477
+      edificios (1)_120: 925028491
+      edificios (1)_121: -1436209138
+      edificios (1)_122: -486463427
+      edificios (1)_123: -233877178
+      edificios (1)_124: 891433476
+      edificios (1)_125: 1723728420
+      edificios (1)_126: 1817962954
+      edificios (1)_127: -33888622
+      edificios (1)_128: -44447048
+      edificios (1)_129: -1795105717
+      edificios (1)_13: -2037254337
+      edificios (1)_130: -9517684
+      edificios (1)_131: 590772158
+      edificios (1)_132: -1320052485
+      edificios (1)_133: -62540106
+      edificios (1)_134: -1966207116
+      edificios (1)_135: 1993347803
+      edificios (1)_136: 1054142460
+      edificios (1)_137: 1235025120
+      edificios (1)_138: 231203018
+      edificios (1)_139: 467977007
+      edificios (1)_14: -1422050568
+      edificios (1)_140: 245870794
+      edificios (1)_141: -2024286923
+      edificios (1)_142: -627875001
+      edificios (1)_143: -1059448362
+      edificios (1)_144: -627072546
+      edificios (1)_145: 1763834531
+      edificios (1)_146: -404327569
+      edificios (1)_147: -676275236
+      edificios (1)_148: 1787004241
+      edificios (1)_149: -1003156315
+      edificios (1)_15: -1887492141
+      edificios (1)_150: 2132129932
+      edificios (1)_151: 1311215850
+      edificios (1)_152: -1458948827
+      edificios (1)_153: -626825500
+      edificios (1)_154: -1666139645
+      edificios (1)_155: 533605748
+      edificios (1)_156: 931677836
+      edificios (1)_157: 205776864
+      edificios (1)_158: -1285161980
+      edificios (1)_159: 861593110
+      edificios (1)_16: -410329039
+      edificios (1)_160: -941428962
+      edificios (1)_161: -1808295722
+      edificios (1)_162: 803705583
+      edificios (1)_163: 1700077227
+      edificios (1)_164: -645106084
+      edificios (1)_165: 390049259
+      edificios (1)_166: 2091079389
+      edificios (1)_167: -2052671576
+      edificios (1)_168: 1884329862
+      edificios (1)_169: -688110595
+      edificios (1)_17: -607645721
+      edificios (1)_170: -1736547385
+      edificios (1)_171: 1844065160
+      edificios (1)_172: 1880878345
+      edificios (1)_173: -1347746005
+      edificios (1)_174: 107726508
+      edificios (1)_175: 1680045741
+      edificios (1)_176: 1574918372
+      edificios (1)_177: 163796743
+      edificios (1)_178: -364582421
+      edificios (1)_179: 1409014752
+      edificios (1)_18: -927254688
+      edificios (1)_180: 1033310029
+      edificios (1)_181: -697749525
+      edificios (1)_182: -261716614
+      edificios (1)_183: 389542976
+      edificios (1)_184: -291466432
+      edificios (1)_185: 780822783
+      edificios (1)_186: -395596819
+      edificios (1)_187: 58494939
+      edificios (1)_188: -2127184611
+      edificios (1)_189: 469560855
+      edificios (1)_19: -611061549
+      edificios (1)_190: -1465923823
+      edificios (1)_191: -171717980
+      edificios (1)_192: 1318693445
+      edificios (1)_193: -174577789
+      edificios (1)_194: 428327992
+      edificios (1)_195: -504953026
+      edificios (1)_196: 192293266
+      edificios (1)_197: 1828621120
+      edificios (1)_198: -419290944
+      edificios (1)_199: -1946348282
+      edificios (1)_2: 506251838
+      edificios (1)_20: -1473990637
+      edificios (1)_200: 717470147
+      edificios (1)_201: -1806946125
+      edificios (1)_202: 1430200066
+      edificios (1)_203: -429028516
+      edificios (1)_204: -407915960
+      edificios (1)_205: -1324101032
+      edificios (1)_206: 1787008067
+      edificios (1)_207: -548408775
+      edificios (1)_208: 1479110644
+      edificios (1)_209: -309481548
+      edificios (1)_21: 311465732
+      edificios (1)_210: -1700244187
+      edificios (1)_211: -1730912236
+      edificios (1)_212: 733862323
+      edificios (1)_213: -768968839
+      edificios (1)_214: 789548828
+      edificios (1)_215: -1643125288
+      edificios (1)_216: -1131697208
+      edificios (1)_217: 1522473554
+      edificios (1)_218: 1386933967
+      edificios (1)_219: -1347769355
+      edificios (1)_22: 1696646333
+      edificios (1)_220: -337977346
+      edificios (1)_221: -220959206
+      edificios (1)_222: 1361232589
+      edificios (1)_223: 1728483096
+      edificios (1)_224: -1876470202
+      edificios (1)_225: -1251765079
+      edificios (1)_226: -167112957
+      edificios (1)_227: -892365954
+      edificios (1)_228: -559120587
+      edificios (1)_229: -773454818
+      edificios (1)_23: -2103798410
+      edificios (1)_230: 1042692250
+      edificios (1)_231: 51294269
+      edificios (1)_232: -82632292
+      edificios (1)_233: -1703541458
+      edificios (1)_234: 2093490197
+      edificios (1)_235: -2111812696
+      edificios (1)_236: 1330905295
+      edificios (1)_237: -783734897
+      edificios (1)_238: -83771396
+      edificios (1)_239: 11592666
+      edificios (1)_24: -1403683781
+      edificios (1)_240: 1177960117
+      edificios (1)_241: 480267748
+      edificios (1)_242: 424882164
+      edificios (1)_243: -1742987549
+      edificios (1)_244: 1943858960
+      edificios (1)_245: -656534732
+      edificios (1)_246: 151088422
+      edificios (1)_247: -949171102
+      edificios (1)_248: 1855111149
+      edificios (1)_249: -806931801
+      edificios (1)_25: -680876701
+      edificios (1)_26: 1906098336
+      edificios (1)_27: -1781198872
+      edificios (1)_28: -1324746702
+      edificios (1)_29: 2024618352
+      edificios (1)_3: -1627633601
+      edificios (1)_30: 676893361
+      edificios (1)_31: 621578523
+      edificios (1)_32: 1510333263
+      edificios (1)_33: 1741483190
+      edificios (1)_34: 2016900929
+      edificios (1)_35: -1843639382
+      edificios (1)_36: 15762334
+      edificios (1)_37: -2131270063
+      edificios (1)_38: -1067602985
+      edificios (1)_39: -1530744618
+      edificios (1)_4: 609327845
+      edificios (1)_40: 1947325420
+      edificios (1)_41: -132198474
+      edificios (1)_42: -1780601952
+      edificios (1)_43: -1049162498
+      edificios (1)_44: 1464955728
+      edificios (1)_45: -1446353649
+      edificios (1)_46: 887882919
+      edificios (1)_47: -267469532
+      edificios (1)_48: -1279063820
+      edificios (1)_49: 41182743
+      edificios (1)_5: -1451680533
+      edificios (1)_50: -575649975
+      edificios (1)_51: 1295611559
+      edificios (1)_52: 1620124338
+      edificios (1)_53: 1486650551
+      edificios (1)_54: 502526120
+      edificios (1)_55: -23658099
+      edificios (1)_56: 2076996545
+      edificios (1)_57: -1796921437
+      edificios (1)_58: 1757594929
+      edificios (1)_59: 1951764193
+      edificios (1)_6: -690144737
+      edificios (1)_60: 823463070
+      edificios (1)_61: 1201033908
+      edificios (1)_62: 1433168624
+      edificios (1)_63: 1840507684
+      edificios (1)_64: 1529525268
+      edificios (1)_65: -603051574
+      edificios (1)_66: -1305405959
+      edificios (1)_67: -2101675728
+      edificios (1)_68: 1205505492
+      edificios (1)_69: 1793606902
+      edificios (1)_7: -1302717591
+      edificios (1)_70: 297910238
+      edificios (1)_71: 674753367
+      edificios (1)_72: -1404752143
+      edificios (1)_73: 288943090
+      edificios (1)_74: -33147089
+      edificios (1)_75: -237922014
+      edificios (1)_76: 870581823
+      edificios (1)_77: -816842452
+      edificios (1)_78: 1350474232
+      edificios (1)_79: -1757034014
+      edificios (1)_8: 1794690272
+      edificios (1)_80: -1935778906
+      edificios (1)_81: -747037088
+      edificios (1)_82: 1682431308
+      edificios (1)_83: 1158558085
+      edificios (1)_84: -666131043
+      edificios (1)_85: -1201974545
+      edificios (1)_86: 918347671
+      edificios (1)_87: 1918011682
+      edificios (1)_88: 1885432968
+      edificios (1)_89: -2104634686
+      edificios (1)_9: 328442418
+      edificios (1)_90: -1616892645
+      edificios (1)_91: -1277590149
+      edificios (1)_92: -1980210887
+      edificios (1)_93: 1028710
+      edificios (1)_94: 1900963475
+      edificios (1)_95: -1212028988
+      edificios (1)_96: -1623217296
+      edificios (1)_97: 1964082628
+      edificios (1)_98: -1709786710
+      edificios (1)_99: 1841357324
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
